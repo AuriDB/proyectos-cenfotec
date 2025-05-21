@@ -11,12 +11,12 @@ Peligro de las "mejores prácticas": Codificar prácticas como "las mejores" pue
 
 Para superar estos obstáculos, las organizaciones pueden adoptar un enfoque de "provocar y observar", implementando cambios incrementales, observando resultados y ajustando el rumbo.
 
-2. ¿Por qué la transición a Scrum no puede ser completamente top-down o
+2- ¿Por qué la transición a Scrum no puede ser completamente top-down o
+
 bottom-up?
 La transición a Scrum no puede ser completamente top-down (de arriba hacia abajo) ni completamente bottom-up (de abajo hacia arriba) porque Scrum es un marco de trabajo que requiere cambios culturales, organizacionales y de comportamiento en todos los niveles de la organización. 
 En conclusión:
 Scrum es tanto un marco de trabajo como una filosofía de colaboración y mejora continua, por lo que requiere alineación y compromiso mutuo entre todos los niveles de la organización. Un enfoque híbrido, con liderazgo estratégico y empoderamiento operativo, es clave para una transformación ágil exitosa
-
 
 
 3. ¿Qué impacto tiene Scrum en la productividad y los costos de desarrollo en comparación con los enfoques tradicionales?
