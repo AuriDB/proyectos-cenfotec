@@ -1,0 +1,17 @@
+1. Desafíos en la adopción de Scrum y cómo superarlos
+
+La adopción de Scrum en una organización presenta varios desafíos significativos, pero el texto claramente demuestra que vale la pena el esfuerzo. Los principales obstáculos incluyen:
+
+1. Necesidad de equilibrar cambios de arriba hacia abajo y de abajo hacia arriba: Las transiciones exitosas requieren tanto el apoyo de la alta dirección como la participación activa de los equipos.
+
+2. Estado final impredecible: A diferencia de otros cambios organizacionales, no se puede definir con precisión cómo será la implementación final de Scrum, ya que implica mejora continua.
+
+3. Naturaleza generalizada de Scrum: Este marco afecta no solo al departamento de desarrollo, sino también a finanzas, ventas, recursos humanos y otras áreas.
+
+4. Cambio dramático en la forma de trabajar: Scrum exige que las personas abandonen prácticas profundamente arraigadas, como el diseño completo antes de la codificación.
+
+5. Velocidad del cambio: En un entorno donde ya hay mucho cambio, Scrum puede ser la gota que colma el vaso, causando "shock del futuro".
+
+6. Peligro de las "mejores prácticas": Codificar prácticas como "las mejores" puede detener la mejora continua esencial en Scrum.
+
+Para superar estos obstáculos, las organizaciones pueden adoptar un enfoque de "provocar y observar", implementando cambios incrementales, observando resultados y ajustando el rumbo. 
